@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function cadastro() {
   return ( 
   <>
-<h1> Hello Word </h1>
+<h1> HelloCadastro </h1>
   </>
   );
 }
